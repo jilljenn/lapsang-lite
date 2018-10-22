@@ -1,6 +1,6 @@
-# Lapsang 正山
+# Lapsang Lite 正山
 
-Lapsang is a game developed to learn a foreign language.
+Lapsang Lite is a game developed to learn a foreign language.
 
 It will be best appreciated by 2 players of different native languages.
 
